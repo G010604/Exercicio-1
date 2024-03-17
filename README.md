@@ -1,6 +1,4 @@
-Exercício pratico
-
-projeto-escola/
+Exercício pratico/
 
 
 ├── classes/
